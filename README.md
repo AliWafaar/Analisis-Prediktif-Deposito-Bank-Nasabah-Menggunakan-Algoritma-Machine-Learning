@@ -73,6 +73,7 @@ Dataset set ini memuat informasi historis nasabah berikut selengkapnya:
 | 10  | Poutcome   | Hasil kampanye pemasaran sebelumnya                                                    |
 | 11  | Deposit    | Apakah nasabah melakukan deposito atau tidak (Ya/Tidak)                                |
 
+Link Dataset: [Click Here](https://github.com/AliWafaar/Analisis-Prediktif-Deposito-Bank-Nasabah-Menggunakan-Algoritma-Machine-Learning/blob/main/data_bank_marketing_campaign.csv).
 
 ##  Explorasi Mendalam dalam Pemodelan Machine Learning
 
