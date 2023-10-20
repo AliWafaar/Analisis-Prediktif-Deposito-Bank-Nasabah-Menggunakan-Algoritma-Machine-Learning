@@ -100,6 +100,7 @@ Berdasarkan hasil classification report dari model Random Forest yang kita kemba
 
 - Jika kita menggunakan model ini untuk menawarkan campaign kepada nasabah, model ini dapat mengurangi `77%` nasabah yang sebenarnya tidak tertarik sehingga kita tidak perlu mendekati mereka. Sementara itu, model kita dapat mengidentifikasi `62%` nasabah yang sebenarnya tertarik dari keseluruhan nasabah yang tertarik (berdasarkan recall untuk label 1).
 
+
 - Jika kita menggunakan model kita bisa menekan angka `Acquisition Cost` dan meningkatkan `ROI (Return Over Investment)` dengan penjabaran seperti ini:
 
 Acquisition Cost = $10/Nasabah
@@ -187,4 +188,8 @@ Dengan menggunakan model ini kita bisa meningkatkan angka ROI dari `139%` menjad
 4. **Pertimbangkan Feature Importance**: Dengan mengetahui Feature Importance, kita dapat melakukan intervensi atau strategi pemasaran yang lebih tepat sasaran,seperti menargetkan campaign ini kepada nasabah dengan `balance` yang besar dan bisa kita lihat orang sebelum nya melakukan deposit `(poutcome)` cendurung melakukan deposit kembali.
 
 5. **Evaluasi Bisnis**: Pertimbangkan biaya dan manfaat dalam implementasi model. Seberapa banyak biaya yang bisa dihemat dengan menghindari nasabah yang tidak tertarik? Seberapa banyak pendapatan tambahan yang bisa diperoleh dengan menargetkan nasabah yang sebenarnya tertarik?
+
+### **Pipeline**
+
+Untuk akses pipeline nya kalian bisa download disini: [Click Here](https://github.com/AliWafaar/Analisis-Prediktif-Deposito-Bank-Nasabah-Menggunakan-Algoritma-Machine-Learning/blob/main/pipeline_predict_bank.pkl)
 
